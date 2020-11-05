@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  cpf: MyString
+  data_de_nascimento: 2020-11-05
+  endereco: MyString
+
+two:
+  nome: MyString
+  cpf: MyString
+  data_de_nascimento: 2020-11-05
+  endereco: MyString
